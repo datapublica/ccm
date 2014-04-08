@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-from distutils.core import setup
+#from distutils.core import setup
+from setuptools import setup
 from os.path import abspath, join, dirname
 
 setup(
